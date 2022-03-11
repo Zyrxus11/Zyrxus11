@@ -12,7 +12,21 @@ My skills : Javascript and Python
 
 Some of my Projects.
 Postman (Discord Bot)
+
+
+
+
+
+
+
 Space Ship (Game)
+
+
+
+
+
+
+
 Bonnie (Discord Bot) 
 
  [<img src='https://marka-logo.com/wp-content/uploads/2020/12/Discord-Logo.png' alt='discord' height='40'>](https://discord.gg/https://discord.gg/c6wduRab6e)  
