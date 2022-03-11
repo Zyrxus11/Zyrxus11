@@ -1,5 +1,10 @@
-Hi! I Zyrxus!
+Hi! I am Zyrxus!
+
 ![Zyrxus](https://avatars.githubusercontent.com/u/74361674?v=4)
+
+
+
+
 Moderator of LOX
 Hello, I am a Zyrxus Discord bot developer and I can Design. 
 
