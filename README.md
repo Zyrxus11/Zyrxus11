@@ -26,7 +26,7 @@ Postman (Discord Bot)
 
 
 
-UpTime (Discord Bot)
+UpTime (Discord Bot) Verified
 
 
 
@@ -40,7 +40,7 @@ Ziup (Discord Bot)
 
 
 
-Vampir Köylü (Discord Bot)
+Vampir Köylü (Discord Bot) Verified
 
 
 
