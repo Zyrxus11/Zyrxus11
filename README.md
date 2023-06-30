@@ -1,1 +1,1 @@
-[.](https://github.com/ZyrxusMe)
+[Link](https://github.com/ZyrxusMe)
